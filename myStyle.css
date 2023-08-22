@@ -1,0 +1,78 @@
+img{
+  float: right;
+  overflow: auto;
+}
+a:link, a:visited{
+  color: #FFE77A;
+}
+a:hover, a:active{
+  color: dodgerblue;
+}
+body{
+  margin: 0px 250px;
+  font-size: 100%;
+  font-family: "Helvetica",Verdana, sans-serif;
+  background-color: #2C5F2D;
+  color: #FFE77A;
+}
+ul{
+  list-style-type: none;
+}
+ul > li{
+  float: right;
+  margin-right: 50px;
+  font-size: 1.5em;
+}
+#hr2{
+  clear: right;
+}
+h1{
+  font-family: "Garamond", Merriweather, Georgia, serif;
+  font-size: 2.5em;
+  text-decoration-line: underline;
+}
+#my_name{
+  font-size: 3.5em;
+}
+p{
+  font-size: 1.5em;
+}
+h2{
+  font-size: 2.0em;
+}
+.foot{
+  margin: 5px 20px;
+  font-size: 1.0em;
+  display: inline-block;
+}
+aside{
+  float: right;
+  width: 30%;
+}
+.d1{
+  width: 70%;
+}
+h3 span{
+  float:right;
+  margin-right: 10px;
+}
+#skills{
+  clear: right;
+  display: block;
+}
+ol li{
+  font-size: 1.5em;
+}
+p.none1{
+  font-size: 1.5em;
+  color: red;
+}
+#education h2{
+  font-size: 1.5;
+}
+#education h3{
+  font-size: 1.35em; 
+}
+#education p{
+  font-size: 1.0em;
+}
